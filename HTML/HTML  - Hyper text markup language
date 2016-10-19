@@ -1,0 +1,8 @@
+HTML  - Hyper text markup language
+<p>   - paragraph
+<nav> - navigation
+
+
+<!DOCTYPE HTML>  - which version of HTML is using
+triggers quirks mode
+helps in parsing:w
